@@ -1,9 +1,13 @@
 # Full Stack Development - III
 
-**Student Name:** Prathamesh Anil Bhamare
-**Roll Number:** SM1101
+**Student Name:** Prajwal Vitthal Mane
+
+**Roll Number:** SM2207
+
 **Class/Division:** SYMSc Computer Science
+
 **Course/Subject:** Full Stack Development - III
+
 
 ## Practicals
 
